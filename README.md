@@ -112,9 +112,6 @@ supply-chain-forecast/
 
 ---
 
-## 📖 详细文档
-
-见 → [`docs/PROJECT_GUIDE.md`](docs/PROJECT_GUIDE.md)
 
 ---
 
